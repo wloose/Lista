@@ -40,5 +40,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3
 #EXTINF:-25 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="PREMIUM", HBO Mundi
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
+#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUZJ0F2S_uNiGlyvNrhrU1Ax1I4pvwCLe7xPaK8zJ7rdUkTi8y0I2AMqXJ57lxkfI2h4&usqp=CAU" group-title="PREMIUM", START Chanel
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

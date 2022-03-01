@@ -19,5 +19,8 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="ARGENTINA", TELEFE
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1646101360~exp=1646108560~acl=/i/appmitelefe_1@326430/*~hmac=3e0c639b2168cfccfbfcbf804567921bb08e6e69b6be8fd2803b96602d5e5c75
 
+#EXTINF:-13 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="ARGENTINA", ElTrece
+https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

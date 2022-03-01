@@ -22,11 +22,14 @@ https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=
 #EXTINF:-13 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="ARGENTINA", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="PREMIUM", HBO
+#EXTINF:-20 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="PREMIUM", HBO2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
+
+#EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM", HBO family
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

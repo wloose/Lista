@@ -1,17 +1,20 @@
-#EXTINF:-1 tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/mas/images/logo_small_mastv.png"group-title="NACIONALES", mástv
+#EXTINF:-1 tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/mas/images/logo_small_mastv.png"group-title="PARAGUAY", mástv
 https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CogFcGCHL9O_vaTSmmrgkk5gfRIv6cxpRoKcWorBm3Mw2LXWZp6s4TdAbiuUi77-jaD2C3yKALIl8ZgXF7AxM_IUANYAlbktudtjhmDcdaZnSsLHZZao9kkbQjQff-gCQfaOsVFlX54x_8S2GW1RKPb0HzTE_qbc6_eRv3pL6Vlp1gqW4G1XFPCxISzzcR59rnVg6igL9B--s00xbGdurK_-p44tkFanUbWZWbvV7elesgGyRUiL6ngHx9rLmTUiYgCe3kC1J30ie_kucXxMXQKk69VM5iFSrdpNu3y1ChpM7pJ-yD7DlV1w-ctP6iF7H8cN_xAJ3PCoXby3HqK-RvqtovG5zDbedeINREFotTCyGAoJotrO15_whacHPGK9Ud2qZTyaQREfvx_w-YXy2t-fDzpG8Fia8_t1Ej3Tmk0yKNgVs5sDdmhOAKzIdXKgtMKaXlsIJ2uo4If6iH6-aGIxYoUpNEDjB4Aagp2BdJfEcoD95iIWKpUHChl_oTjkZjfz_R9Ig0_l3L_-GPPtpQluoYZQ2lv1zGsDrDQ3O_IOKDJaT-kWstgNK_DVJLWj0MHgjFS5VwBbZIO3Fue8vFcEXUWr2ndDncg0HUWKzLiwjTJFNkMSFcETAEUauOc9knfxGOdgHj-Xhsqa3jD4jaYlupoO-hRaMo8e6SRzwIFqQzC23necrzLW9MZJqMBfAZtKUTC5JTU-BYGhRqKNzVKVxm3n5Reg-l5k5AeBGVpK9au38x3FcJdSfKsvm_6tlVNwJbk5v-7aetFabmha_ycHoHP98zmbTj4z_kMVO-XZVMZchpL29wEqkAtWExs2hvVfYXPSwtS5-LeW2DUF1NYYPiGHArbBWC6ZGgz1P-ZC5gSbn_vic7YgASoJdXMtZWFzdC0xMMYB.m3u8
 
-#EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
+#EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PARAGUAY", TVS
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w468068683.m3u8?k=0af60d445674ec0d6b91b67864a608f972cecd421aeea9f4ce36b030ce970723&exp=1646101312
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY", TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
-#EXTINF:-4 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
+#EXTINF:-4 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="PARAGUAY", LATELE
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
-#EXTINF:-5 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="NACIONALES", NPY
+#EXTINF:-5 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY", NPY
 https://rds3.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=40ee004c39bdfed17edbf0e47a6a0efb8cb8095aa68c8a557bb53a7c24afdff8&exp=1646104305
 
-#EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="NACIONALES", radioencarnacion
+#EXTINF:-9 tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="ARGENTINA", ElNueve
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/a993c86f-a68c-45b1-ad32-11086fa86523/3.m3u8
+
+#EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

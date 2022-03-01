@@ -34,5 +34,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Famil
 #EXTINF:-23 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1444644228_HBOPOP(varianteazul).png.640cd5aec665659db588884cb4466c7d.png" group-title="PREMIUM", HBO Pop
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
+#EXTINF:-24 tvg-logo="https://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="PREMIUM", HBO Plus
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

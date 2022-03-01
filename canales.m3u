@@ -1,8 +1,11 @@
-#EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
+#EXTINF:-1 tvg-logo="https://www.masencarnacion.com/themes/mas-encarnacion/assets/mas/images/logo_small_mastv.png"group-title="NACIONALES", mástv
+https://video-weaver.sao03.hls.ttvnw.net/v1/playlist/CogFcGCHL9O_vaTSmmrgkk5gfRIv6cxpRoKcWorBm3Mw2LXWZp6s4TdAbiuUi77-jaD2C3yKALIl8ZgXF7AxM_IUANYAlbktudtjhmDcdaZnSsLHZZao9kkbQjQff-gCQfaOsVFlX54x_8S2GW1RKPb0HzTE_qbc6_eRv3pL6Vlp1gqW4G1XFPCxISzzcR59rnVg6igL9B--s00xbGdurK_-p44tkFanUbWZWbvV7elesgGyRUiL6ngHx9rLmTUiYgCe3kC1J30ie_kucXxMXQKk69VM5iFSrdpNu3y1ChpM7pJ-yD7DlV1w-ctP6iF7H8cN_xAJ3PCoXby3HqK-RvqtovG5zDbedeINREFotTCyGAoJotrO15_whacHPGK9Ud2qZTyaQREfvx_w-YXy2t-fDzpG8Fia8_t1Ej3Tmk0yKNgVs5sDdmhOAKzIdXKgtMKaXlsIJ2uo4If6iH6-aGIxYoUpNEDjB4Aagp2BdJfEcoD95iIWKpUHChl_oTjkZjfz_R9Ig0_l3L_-GPPtpQluoYZQ2lv1zGsDrDQ3O_IOKDJaT-kWstgNK_DVJLWj0MHgjFS5VwBbZIO3Fue8vFcEXUWr2ndDncg0HUWKzLiwjTJFNkMSFcETAEUauOc9knfxGOdgHj-Xhsqa3jD4jaYlupoO-hRaMo8e6SRzwIFqQzC23necrzLW9MZJqMBfAZtKUTC5JTU-BYGhRqKNzVKVxm3n5Reg-l5k5AeBGVpK9au38x3FcJdSfKsvm_6tlVNwJbk5v-7aetFabmha_ycHoHP98zmbTj4z_kMVO-XZVMZchpL29wEqkAtWExs2hvVfYXPSwtS5-LeW2DUF1NYYPiGHArbBWC6ZGgz1P-ZC5gSbn_vic7YgASoJdXMtZWFzdC0xMMYB.m3u8
+
+#EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w468068683.m3u8?k=0af60d445674ec0d6b91b67864a608f972cecd421aeea9f4ce36b030ce970723&exp=1646101312
 
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
-#EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
+#EXTINF:-4 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8

@@ -37,5 +37,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 #EXTINF:-24 tvg-logo="https://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="PREMIUM", HBO Plus
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
+#EXTINF:-25 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="PREMIUM", HBO Mundi
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

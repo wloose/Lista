@@ -19,11 +19,14 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="ARGENTINA", TELEFE
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1646101360~exp=1646108560~acl=/i/appmitelefe_1@326430/*~hmac=3e0c639b2168cfccfbfcbf804567921bb08e6e69b6be8fd2803b96602d5e5c75
 
-#EXTINF:-13 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="ARGENTINA", ElTrece
+#EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="ARGENTINA", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FX15NtWgLkSak6wEZMWQ2Iocl298sFlbG1ZWMmPRwAF5hHHoGemkVjyrcgaSq6TT_sQ&usqp=CAU" group-title="ARGENTINA", America TV
+#EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FX15NtWgLkSak6wEZMWQ2Iocl298sFlbG1ZWMmPRwAF5hHHoGemkVjyrcgaSq6TT_sQ&usqp=CAU" group-title="ARGENTINA", America TV 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+
+#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="ARGENTINA", Canal 26
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8

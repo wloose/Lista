@@ -43,5 +43,26 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUZJ0F2S_uNiGlyvNrhrU1Ax1I4pvwCLe7xPaK8zJ7rdUkTi8y0I2AMqXJ57lxkfI2h4&usqp=CAU" group-title="PREMIUM", START Chanel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
+#EXTINF:-27 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbsnS3LD39fMk9A8nS0uNMLC4hVHNaZRb_IU5o4TV2ViLuyvGFRW5asyA0vTu8RbEVLA&usqp=CAU" group-title="PREMIUM", CINEMAX
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+
+#EXTINF:-28 tvg-logo="https://bjmedios.com.mx/wp-content/uploads/2020/04/unnamed-5.jpg" group-title="PREMIUM", CINECANAL
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+
+#EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SUrOd2vXtgEhJg-53CMSj5NHP0N4wCJQ6LgW_5XasBdtWMKlzRJdZIzm6jZtpNHxAZY&usqp=CAU" group-title="PREMIUM", National Geographic
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+#EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfGP1FWpVNmTMZgLkjzztOs0_FVe7RHNqh6GGpoM1XoU3umqkhkvlYjAu7LF-7HxitSQ&usqp=CAU" group-title="PREMIUM", Discovery Home & Health
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+#EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58afDUQELEf2UxhjMdJvGYEaCkpip0bqA9vYzkpzUQPDUSl5bjU-zF534ItS_qRo94kk&usqp=CAU" group-title="PREMIUM", History Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+#EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPw70NQ3YY9-CgCc-iB2N_zzR-kOFdRJ2xxVC1FABPakOfjQBjjhwNaBYEhWqpBVFFyQ&usqp=CAU" group-title="PREMIUM", History 2
+https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+#EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones
+https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

@@ -70,11 +70,14 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 
-#EXTINF:-50 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
+#EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-50 tvg-logo="http://pe.tiching.com/uploads/contents/2013/05/28/99655_1369753310_m.png" group-title="INFANTIL", Discovery Kids
+#EXTINF:-61 tvg-logo="http://pe.tiching.com/uploads/contents/2013/05/28/99655_1369753310_m.png" group-title="INFANTIL", Discovery Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+
+#EXTINF:-62 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="INFANTIL", Nickelodeon
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", radioencarnacion
 https://radioencarnacion.opentechla.com/stream

@@ -70,7 +70,10 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.
 #EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPw70NQ3YY9-CgCc-iB2N_zzR-kOFdRJ2xxVC1FABPakOfjQBjjhwNaBYEhWqpBVFFyQ&usqp=CAU" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM", Discovery Turbo
+#EXTINF:-33 tvg-logo="https://i.blogs.es/b1c9d1/discovery-channel-logo/450_1000.jpg" group-title="PREMIUM", Discovery Channel
+https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM", Discovery Turbo
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones

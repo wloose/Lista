@@ -29,7 +29,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwA27CqBlRdj3GjOVc36DAMoYERaT0FCsW2tvpE4vylLMdiX3pE_ZEPp9gEBzcTe5HZn8&usqp=CAU" group-title="ARGENTINA", Cronica TV
-https://youtu.be/InSydaLSSlw
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646466501/ei/ZcEiYrTCB435wAT7vJqIDg/ip/170.150.152.147/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIge14djpxGAOUR7v1cvcdmbdCJF2QvoDJRcJzTMhqUvjcCIQCmzRYJfKsoG8_TTOzIvPaIOh2u-aaJ4ojsAmlcOGHfUQ%3D%3D/file/index.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8

@@ -1,37 +1,37 @@
-#EXTINF:-2 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/parts-web/5f798adb/logo.png" group-title="PARAGUAY", Canal 9 Noticias
+#EXTINF:-2 tvg-logo="https://www.c9n.com.py/wp-content/themes/albavision-theme/parts-web/5f798adb/logo.png" group-title="PREMIUM", Canal 9 Noticias
 https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjQ2NjA1MTM4LCJzZXNzaW9uIjoiMTcwLjE1MC4xNTIuMTQ3Iiwid2hpdGVsaXN0IjpbIjE3MC4xNTAuMTUyLjE0NyJdfSwic2lnbmF0dXJlIjoiMzk5YjM1NGY5ZDc2MDM3MTVhNWIxZmRmZmNjNGM3ZmU4YThhMmMxMCJ9
 
-#EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PARAGUAY", TVS
+#EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PREMIUM", TVS
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w468068683.m3u8?k=0af60d445674ec0d6b91b67864a608f972cecd421aeea9f4ce36b030ce970723&exp=1646101312
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PARAGUAY", TELEFUTURO
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="PREMIUM", TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
-#EXTINF:-4 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="PARAGUAY", LATELE
+#EXTINF:-4 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="PREMIUM", LATELE
 http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
-#EXTINF:-5 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PARAGUAY", NPY
+#EXTINF:-5 tvg-logo="https://npy.com.py/wp-content/uploads/2019/07/cropped-logodos-1.png" group-title="PREMIUM", NPY
 https://rds3.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=013038d422d97f8173cbaf7c4e408a2478912c19768d328bde9db26ad98e0333&exp=1646498505
 
-#EXTINF:-9 tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="ARGENTINA", ElNueve
+#EXTINF:-9 tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="PREMIUM", ElNueve
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/a993c86f-a68c-45b1-ad32-11086fa86523/3.m3u8
 
-#EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="ARGENTINA", TELEFE
+#EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="PREMIUM", TELEFE
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
-#EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="ARGENTINA", ElTrece
+#EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="PREMIUM", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FX15NtWgLkSak6wEZMWQ2Iocl298sFlbG1ZWMmPRwAF5hHHoGemkVjyrcgaSq6TT_sQ&usqp=CAU" group-title="ARGENTINA", America TV 
+#EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3FX15NtWgLkSak6wEZMWQ2Iocl298sFlbG1ZWMmPRwAF5hHHoGemkVjyrcgaSq6TT_sQ&usqp=CAU" group-title="PREMIUM", America TV 
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
-#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="ARGENTINA", Canal 26
+#EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
-#EXTINF:-15 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwA27CqBlRdj3GjOVc36DAMoYERaT0FCsW2tvpE4vylLMdiX3pE_ZEPp9gEBzcTe5HZn8&usqp=CAU" group-title="ARGENTINA", Cronica TV
+#EXTINF:-15 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwA27CqBlRdj3GjOVc36DAMoYERaT0FCsW2tvpE4vylLMdiX3pE_ZEPp9gEBzcTe5HZn8&usqp=CAU" group-title="PREMIUM", Cronica TV
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646466501/ei/ZcEiYrTCB435wAT7vJqIDg/ip/170.150.152.147/id/InSydaLSSlw.6/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIge14djpxGAOUR7v1cvcdmbdCJF2QvoDJRcJzTMhqUvjcCIQCmzRYJfKsoG8_TTOzIvPaIOh2u-aaJ4ojsAmlcOGHfUQ%3D%3D/file/index.m3u8
 
-#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6e_gyISITc2lfNre9MEJjCXjaZ6qduPOzgtOvV6b6gVQPUa2cJGdcoIfkaqIi2cpHiqQ&usqp=CAU" group-title="ARGENTINA", TV Publica
+#EXTINF:-16 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6e_gyISITc2lfNre9MEJjCXjaZ6qduPOzgtOvV6b6gVQPUa2cJGdcoIfkaqIi2cpHiqQ&usqp=CAU" group-title="PREMIUM", TV Publica
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1646537734/ei/ptcjYprrBMT5wgTanYyoAQ/ip/170.150.152.147/id/HuXaZYYW79E.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgQ5nqSHiTBWdBMxXJZ4D_6DWmHp9AqdcHQ73XjhP8n-oCICZzTz0PARN5oAUamlmxPWmETuE7bgUKsSvQ0mKf-M44/file/index.m3u8
 
 #EXTINF:-20 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="PREMIUM", HBO
@@ -82,14 +82,14 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/Disco
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 
-#EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="INFANTIL", Disney Channel
+#EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="PREMIUM", Disney Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-61 tvg-logo="http://pe.tiching.com/uploads/contents/2013/05/28/99655_1369753310_m.png" group-title="INFANTIL", Discovery Kids
+#EXTINF:-61 tvg-logo="http://pe.tiching.com/uploads/contents/2013/05/28/99655_1369753310_m.png" group-title="PREMIUM", Discovery Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF:-62 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="INFANTIL", Nickelodeon
+#EXTINF:-62 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
-#EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PARAGUAY", Radio Encarnacion
+#EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PREMIUM", Radio Encarnacion
 https://radioencarnacion.opentechla.com/stream

@@ -14,7 +14,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.
 https://rds3.desdeparaguay.net/npy/npy_int_baja/playlist.m3u8?k=02a3b38969b8ceab51b071d319cd2d408c9bd728b20991ab3653bf8df475120b&exp=1646609812
 
 #EXTINF:-9 tvg-logo="https://www.elnueve.com.ar/_next/image?url=%2Flogo%2FlogotipoC9.png&w=256&q=75" group-title="PREMIUM", ElNueve
-https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/a993c86f-a68c-45b1-ad32-11086fa86523/3.m3u8
+https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
 
 #EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="PREMIUM", TELEFE
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8

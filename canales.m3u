@@ -67,19 +67,25 @@ https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/
 #EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony Channel
 https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/131.png" group-title="PREMIUM", Nat Geo HD
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony Channel
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
+#EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+#EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/61.png" group-title="PREMIUM",Space 
+https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1648035110~exp=1648035710~acl=/*~hmac=21b64d425e3d676c819c4dfa89ca3058c16c142794c443bd5e83949209d9d33f
+
+#EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
+#EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
-#EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
+#EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
+#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo

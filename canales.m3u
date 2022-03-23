@@ -28,6 +28,9 @@ https://edge01-fdo-py.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m
 #EXTINF:-15 tvg-logo="https://telefullenvivo.com/logos/tvpublica.png" group-title="PREMIUM",TV Publica
 https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8
 
+#EXTINF:-15 tvg-logo="https://ww2.movistar.cl/servicios-digitales/movistar-tv-app/img/tnt-sports-hd.png" group-title="PREMIUM",TNT Sports
+https://latam5-lh.akamaihd.net/i/TSP_ARG@198922/master.m3u8?hdnea=st=1648039973~exp=1648040573~acl=/*~hmac=d8a59826b3d4dd96d2152636d232307fc57abb7c69697bf568717b20be2ef725
+
 #EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 

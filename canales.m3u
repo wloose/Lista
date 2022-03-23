@@ -49,22 +49,37 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 #EXTINF:-28 tvg-logo="https://bjmedios.com.mx/wp-content/uploads/2020/04/unnamed-5.jpg" group-title="PREMIUM", CINECANAL
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-29 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SUrOd2vXtgEhJg-53CMSj5NHP0N4wCJQ6LgW_5XasBdtWMKlzRJdZIzm6jZtpNHxAZY&usqp=CAU" group-title="PREMIUM", National Geographic
+#EXTINF:-29 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/245px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUM", Paramount
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+
+#EXTINF:-30 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/506px-TNT_Series.png" group-title="PREMIUM", TNT Series
+https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+
+#EXTINF:-31 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/180px-TNT.svg.png" group-title="PREMIUM", TNT
+https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+
+#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/512px-Universal_Channel_Logo_2013.svg.png" group-title="PREMIUM", universal channel
+https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/100px-Sony_Channel_latam_logo.svg.png" group-title="PREMIUM", Sony Channel
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+#EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SUrOd2vXtgEhJg-53CMSj5NHP0N4wCJQ6LgW_5XasBdtWMKlzRJdZIzm6jZtpNHxAZY&usqp=CAU" group-title="PREMIUM", National Geographic
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-30 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfGP1FWpVNmTMZgLkjzztOs0_FVe7RHNqh6GGpoM1XoU3umqkhkvlYjAu7LF-7HxitSQ&usqp=CAU" group-title="PREMIUM", Discovery Home & Health
+#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfGP1FWpVNmTMZgLkjzztOs0_FVe7RHNqh6GGpoM1XoU3umqkhkvlYjAu7LF-7HxitSQ&usqp=CAU" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-31 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58afDUQELEf2UxhjMdJvGYEaCkpip0bqA9vYzkpzUQPDUSl5bjU-zF534ItS_qRo94kk&usqp=CAU" group-title="PREMIUM", History Channel
+#EXTINF:-36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58afDUQELEf2UxhjMdJvGYEaCkpip0bqA9vYzkpzUQPDUSl5bjU-zF534ItS_qRo94kk&usqp=CAU" group-title="PREMIUM", History Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
-#EXTINF:-32 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPw70NQ3YY9-CgCc-iB2N_zzR-kOFdRJ2xxVC1FABPakOfjQBjjhwNaBYEhWqpBVFFyQ&usqp=CAU" group-title="PREMIUM", History 2
+#EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPw70NQ3YY9-CgCc-iB2N_zzR-kOFdRJ2xxVC1FABPakOfjQBjjhwNaBYEhWqpBVFFyQ&usqp=CAU" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-33 tvg-logo="https://i.blogs.es/b1c9d1/discovery-channel-logo/450_1000.jpg" group-title="PREMIUM", Discovery Channel
+#EXTINF:-38 tvg-logo="https://i.blogs.es/b1c9d1/discovery-channel-logo/450_1000.jpg" group-title="PREMIUM", Discovery Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-34 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM", Discovery Turbo
+#EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM", Discovery Turbo
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=unbDfWjwau2cZOgqzINkQw&expires=1646625551&ip=170.150.152.147
 
 #EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones

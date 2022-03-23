@@ -22,7 +22,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
-#EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
+#EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="PREMIUM", HBO2

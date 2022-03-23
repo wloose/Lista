@@ -22,6 +22,9 @@ https://edge03-fdo-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
+#EXTINF:-15 tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="PREMIUM",Cronica TV
+https://edge01-fdo-py.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+
 #EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
@@ -72,9 +75,6 @@ https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
 https://edge03-fdo-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-
-#EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/61.png" group-title="PREMIUM",Space 
-https://latam2-lh.akamaihd.net/i/SPA_SUR@445604/master.m3u8?hdnea=st=1648035110~exp=1648035710~acl=/*~hmac=21b64d425e3d676c819c4dfa89ca3058c16c142794c443bd5e83949209d9d33f
 
 #EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8

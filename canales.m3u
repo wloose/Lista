@@ -1,3 +1,6 @@
+#EXTINF:-2 tvg-logo="https://www.television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="PREMIUM", Unicanal
+https://edge03-fdo-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
+
 #EXTINF:-2 tvg-logo="https://megatelevisionhd.com/wp/wp-content/uploads/2021/10/NPY_Noticias_Paraguay-e1634221230637.png" group-title="PREMIUM", Noticias Paraguay
 https://edge03-fdo-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
 

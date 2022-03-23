@@ -22,73 +22,76 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
-#EXTINF:-20 tvg-logo="https://i.pinimg.com/originals/01/76/82/0176826ea0f10ed7414dd7383899e716.jpg" group-title="PREMIUM", HBO
+#EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
-#EXTINF:-21 tvg-logo="https://www.sintelevisionhd.com/img/hbo2.png" group-title="PREMIUM", HBO2
+#EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="PREMIUM", HBO2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8
 
-#EXTINF:-22 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUM", HBO family
+#EXTINF:-22 tvg-logo="http://www.plexmx.club/canales/430.png" group-title="PREMIUM", HBO family
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
-#EXTINF:-23 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.1444644228_HBOPOP(varianteazul).png.640cd5aec665659db588884cb4466c7d.png" group-title="PREMIUM", HBO Pop
+#EXTINF:-23 tvg-logo="http://www.plexmx.club/canales/432.png" group-title="PREMIUM", HBO Pop
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
 
-#EXTINF:-24 tvg-logo="https://cineparallevar.mx/admin/wp-content/uploads/2017/10/copypasteimage-4.jpg" group-title="PREMIUM", HBO Plus
+#EXTINF:-24 tvg-logo="http://www.plexmx.club/canales/431.png" group-title="PREMIUM", HBO Plus
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3u8
 
-#EXTINF:-25 tvg-logo="https://seeklogo.com/images/H/hbo-mundi-logo-236F04C9B4-seeklogo.com.png" group-title="PREMIUM", HBO Mundi
+#EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/435.png" group-title="PREMIUM", HBO Mundi
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
+
+#EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/433.png" group-title="PREMIUM", HBO Xtreme
+https://edge03-fdo-py.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUZJ0F2S_uNiGlyvNrhrU1Ax1I4pvwCLe7xPaK8zJ7rdUkTi8y0I2AMqXJ57lxkfI2h4&usqp=CAU" group-title="PREMIUM", START Chanel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-27 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbsnS3LD39fMk9A8nS0uNMLC4hVHNaZRb_IU5o4TV2ViLuyvGFRW5asyA0vTu8RbEVLA&usqp=CAU" group-title="PREMIUM", CINEMAX
+#EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-28 tvg-logo="https://bjmedios.com.mx/wp-content/uploads/2020/04/unnamed-5.jpg" group-title="PREMIUM", CINECANAL
+#EXTINF:-28 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-29 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Paramount_Pictures_Corporation_logo.svg/245px-Paramount_Pictures_Corporation_logo.svg.png" group-title="PREMIUM", Paramount
+#EXTINF:-29 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
 https://edge03-fdo-py.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-30 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/TNT_Series.png/506px-TNT_Series.png" group-title="PREMIUM", TNT Series
+#EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-31 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TNT.svg/180px-TNT.svg.png" group-title="PREMIUM", TNT
+#EXTINF:-31 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-32 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/512px-Universal_Channel_Logo_2013.svg.png" group-title="PREMIUM", universal channel
+#EXTINF:-32 tvg-logo="http://www.plexmx.club/canales/77.png" group-title="PREMIUM", universal channel
 https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
-#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Sony_Channel_latam_logo.svg/100px-Sony_Channel_latam_logo.svg.png" group-title="PREMIUM", Sony Channel
+#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony Channel
 https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-34 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5SUrOd2vXtgEhJg-53CMSj5NHP0N4wCJQ6LgW_5XasBdtWMKlzRJdZIzm6jZtpNHxAZY&usqp=CAU" group-title="PREMIUM", National Geographic
+#EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/131.png" group-title="PREMIUM", Nat Geo HD
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
-#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbfGP1FWpVNmTMZgLkjzztOs0_FVe7RHNqh6GGpoM1XoU3umqkhkvlYjAu7LF-7HxitSQ&usqp=CAU" group-title="PREMIUM", Discovery Home & Health
+#EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-36 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ58afDUQELEf2UxhjMdJvGYEaCkpip0bqA9vYzkpzUQPDUSl5bjU-zF534ItS_qRo94kk&usqp=CAU" group-title="PREMIUM", History Channel
+#EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
-#EXTINF:-37 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUPw70NQ3YY9-CgCc-iB2N_zzR-kOFdRJ2xxVC1FABPakOfjQBjjhwNaBYEhWqpBVFFyQ&usqp=CAU" group-title="PREMIUM", History 2
+#EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-38 tvg-logo="https://i.blogs.es/b1c9d1/discovery-channel-logo/450_1000.jpg" group-title="PREMIUM", Discovery Channel
+#EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-39 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUM", Discovery Turbo
+#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
 https://live.telelatinohd.com/hls/cu1as8e8mxraxmpll/96_.m3u8?token=unbDfWjwau2cZOgqzINkQw&expires=1646625551&ip=170.150.152.147
 
-#EXTINF:-50 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnaolabi5A3NPl5bYdhFkFT2AcVejFKrAcU-U22-wOLri7Vjgii3ejH_MuO_L-vpMVcAg&usqp=CAU" group-title="PREMIUM", Pasiones
+#EXTINF:-50 tvg-logo="http://www.plexmx.club/canales/423.png" group-title="PREMIUM", Pasiones
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 
-#EXTINF:-60 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/2010_Disney_Channel_logo.svg/1200px-2010_Disney_Channel_logo.svg.png" group-title="PREMIUM", Disney Channel
+#EXTINF:-60 tvg-logo="http://www.plexmx.club/canales/113.png" group-title="PREMIUM", Disney Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
 
-#EXTINF:-61 tvg-logo="http://pe.tiching.com/uploads/contents/2013/05/28/99655_1369753310_m.png" group-title="PREMIUM", Discovery Kids
+#EXTINF:-61 tvg-logo="http://www.plexmx.club/canales/107.png" group-title="PREMIUM", Discovery Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
 #EXTINF:-62 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon

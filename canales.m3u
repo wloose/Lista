@@ -1,3 +1,9 @@
+#EXTINF:-2 tvg-logo="https://megatelevisionhd.com/wp/wp-content/uploads/2021/10/unnamed-3-e1634221517285.jpg" group-title="PREMIUM", ABC TV 
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+
+#EXTINF:-2 tvg-logo="https://televisionlibre.net/img/logo_canal/C9N.png" group-title="PREMIUM", C9N 
+https://edge03-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/SA_SAGEMCOM/C9N_C4.m3u8
+
 #EXTINF:-2 tvg-logo="https://www.television.com.py/wp-content/uploads/2015/03/UnicanalLogotvpy.jpg" group-title="PREMIUM", Unicanal
 https://edge03-fdo-py.cvattv.com.ar/live/c4eds/UNICANAL_C4/SA_SAGEMCOM/UNICANAL_C4.m3u8
 

@@ -94,7 +94,13 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/Disn
 #EXTINF:-61 tvg-logo="http://www.plexmx.club/canales/107.png" group-title="PREMIUM", Discovery Kids
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
 
-#EXTINF:-62 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
+#EXTINF:-62 tvg-logo="http://www.plexmx.club/canales/113.png" group-title="PREMIUM", Disney Channel
+https://edge03-fdo-py.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_SAGEMCOM/DisneyChannelHD.m3u8
+
+#EXTINF:-63 tvg-logo="http://www.plexmx.club/canales/110.png" group-title="PREMIUM", Disney Junior
+https://edge03-fdo-py.cvattv.com.ar/live/c7eds/DisneyJr/SA_SAGEMCOM/DisneyJr.m3u8
+
+#EXTINF:-64 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PREMIUM", Radio Encarnacion

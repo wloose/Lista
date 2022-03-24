@@ -35,7 +35,7 @@ https://edge03-fdo-py.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 
 #EXTINF:-15 tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="PREMIUM",Cronica TV
-https://edge01-fdo-py.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw&ab_channel=Cr%C3%B3nicaTV
 
 #EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="PREMIUM",TV Publica
 https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Canal7/SA_SAGEMCOM/Canal7.m3u8

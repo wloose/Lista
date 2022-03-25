@@ -28,12 +28,6 @@ https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.
 #EXTINF:-15 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-vGhSrfKfUQ&ab_channel=C5N
 
-#EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="PREMIUM",TV Publica
-https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=7_oQ0OJ2F0M&ab_channel=Televisi%C3%B3nP%C3%BAblica
-
-#EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/800px-Logo_del_canal_Encuentro.svg.png" group-title="PREMIUM",Canal Encuentro
-https://www.youtube.com/watch?v=NYdCsz61Hog&ab_channel=CanalEncuentro
-
 #EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 

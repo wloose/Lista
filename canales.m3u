@@ -25,7 +25,7 @@ https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.
 #EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="PREMIUM",Todo Noticias
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
-#EXTINF:-15 tvg-logo="https://es.wikipedia.org/wiki/Archivo:C5N_Logo_2015.PNG" group-title="PREMIUM",C5N
+#EXTINF:-15 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-vGhSrfKfUQ&ab_channel=C5N
 
 #EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg/200px-TVP_-_Televisi%C3%B3n_P%C3%BAblica_%282021%29.svg.png" group-title="PREMIUM",TV Publica

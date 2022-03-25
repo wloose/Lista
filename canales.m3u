@@ -1,6 +1,3 @@
-#EXTINF:-2 tvg-logo="https://megatelevisionhd.com/wp/wp-content/uploads/2021/10/NPY_Noticias_Paraguay-e1634221230637.png" group-title="PREMIUM", Noticias Paraguay
-https://edge03-fdo-py.cvattv.com.ar/live/c4eds/NOTICIAS_PY_C4/SA_SAGEMCOM/NOTICIAS_PY_C4.m3u8
-
 #EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PREMIUM", TVS
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w468068683.m3u8?k=0af60d445674ec0d6b91b67864a608f972cecd421aeea9f4ce36b030ce970723&exp=1646101312
 
@@ -71,22 +68,19 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
-https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-31 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
-https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-32 tvg-logo="http://www.plexmx.club/canales/77.png" group-title="PREMIUM", universal channel
-https://edge03-fdo-py.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
+#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
+https://edge4-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony Channel
-https://edge03-fdo-py.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
-
-#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/61.png" group-title="PREMIUM", Space
-https://edge01-fdo-py.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
+https://edge4-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
-https://edge03-fdo-py.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 #EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
@@ -101,7 +95,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
-https://edge03-fdo-py.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+https://edge4-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF:-50 tvg-logo="http://www.plexmx.club/canales/423.png" group-title="PREMIUM", Pasiones
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8

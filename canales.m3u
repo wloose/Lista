@@ -59,7 +59,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
 #EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/433.png" group-title="PREMIUM", HBO Xtreme
-https://edge03-fdo-py.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUZJ0F2S_uNiGlyvNrhrU1Ax1I4pvwCLe7xPaK8zJ7rdUkTi8y0I2AMqXJ57lxkfI2h4&usqp=CAU" group-title="PREMIUM", START Chanel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
@@ -69,9 +69,6 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-28 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
-
-#EXTINF:-29 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
-https://edge03-fdo-py.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
 https://edge03-fdo-py.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8

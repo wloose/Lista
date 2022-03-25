@@ -14,7 +14,7 @@ https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/
 https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1648164504~exp=1648171704~acl=/i/appmitelefe_1@326430/*~hmac=59ff49b7a3a34ad599355da9e272bddd7d6e243d747c27b2374baf1bf0f2c08c
 
 #EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="PREMIUM", ElTrece
-https://edge6-hr.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_2A/ArtearHD-avc1_2499968=10007-scale=30000-init.mp4
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/903k_wttx
 
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8

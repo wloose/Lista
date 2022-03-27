@@ -100,5 +100,8 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Disco
 #EXTINF:-64 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/Nickelodeon/SA_SAGEMCOM/Nickelodeon.m3u8
 
+#EXTINF:-64 tvg-logo="http://www.plexmx.club/canales/18.png" group-title="PREMIUM", Cartoon Network
+https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PREMIUM", Radio Encarnacion
 https://radioencarnacion.opentechla.com/stream

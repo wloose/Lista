@@ -22,7 +22,7 @@ https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
 #EXTINF:-15 tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="PREMIUM",Cronica TV
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw&ab_channel=Cr%C3%B3nicaTV
 
-#EXTINF:-15 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="PREMIUM",Todo Noticias
+#EXTINF:-16 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="PREMIUM",Todo Noticias
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
 #EXTINF:-15 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
@@ -46,46 +46,64 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3
 #EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/435.png" group-title="PREMIUM", HBO Mundi
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
-#EXTINF:-25 tvg-logo="http://www.plexmx.club/canales/433.png" group-title="PREMIUM", HBO Xtreme
+#EXTINF:-26 tvg-logo="http://www.plexmx.club/canales/433.png" group-title="PREMIUM", HBO Xtreme
 https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
-#EXTINF:-26 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZUZJ0F2S_uNiGlyvNrhrU1Ax1I4pvwCLe7xPaK8zJ7rdUkTi8y0I2AMqXJ57lxkfI2h4&usqp=CAU" group-title="PREMIUM", START Chanel
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/28.png" group-title="PREMIUM", Start Chanel
+https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
+#EXTINF:-28 tvg-logo="http://www.plexmx.club/canales/120.png" group-title="PREMIUM", Star Cinema
+https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-29 tvg-logo="http://www.plexmx.club/canales/436.png" group-title="PREMIUM", Star Comedy
+https://edge4-hr.cvattv.com.ar/live/c7eds/FoxComedy/SA_SAGEMCOM/FoxComedy.m3u8
+
+#EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/31.png" group-title="PREMIUM", Star Series
+https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+
+#EXTINF:-26 tvg-logo="http://www.plexmx.club/canales/29.png" group-title="PREMIUM", Star Action
+https://edge4-hr.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
+
+#EXTINF:-31 tvg-logo="http://www.plexmx.club/canales/437.png" group-title="PREMIUM", Star Fun
+https://edge4-hr.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
+
+#EXTINF:-32 tvg-logo="http://www.plexmx.club/canales/27.png" group-title="PREMIUM", Star Life
+https://edge4-hr.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
+
+#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
-#EXTINF:-28 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
+#EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
-#EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
+#EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-31 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
+#EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
 https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
-#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
+#EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
 https://edge4-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
-#EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
+#EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
 https://edge4-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
+#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
 https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
-#EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
+#EXTINF:-40 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
-#EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
+#EXTINF:-41 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
-#EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
+#EXTINF:-42 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
-#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
+#EXTINF:-43 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
-#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
+#EXTINF:-44 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
 https://edge4-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF:-50 tvg-logo="http://www.plexmx.club/canales/423.png" group-title="PREMIUM", Pasiones

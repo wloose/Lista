@@ -52,24 +52,6 @@ https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3
 #EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/28.png" group-title="PREMIUM", Start Chanel
 https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
-#EXTINF:-28 tvg-logo="http://www.plexmx.club/canales/120.png" group-title="PREMIUM", Star Cinema
-https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-29 tvg-logo="http://www.plexmx.club/canales/436.png" group-title="PREMIUM", Star Comedy
-https://edge4-hr.cvattv.com.ar/live/c7eds/FoxComedy/SA_SAGEMCOM/FoxComedy.m3u8
-
-#EXTINF:-30 tvg-logo="http://www.plexmx.club/canales/31.png" group-title="PREMIUM", Star Series
-https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
-
-#EXTINF:-26 tvg-logo="http://www.plexmx.club/canales/29.png" group-title="PREMIUM", Star Action
-https://edge4-hr.cvattv.com.ar/live/c3eds/FoxAction/SA_SAGEMCOM/FoxAction.m3u8
-
-#EXTINF:-31 tvg-logo="http://www.plexmx.club/canales/437.png" group-title="PREMIUM", Star Fun
-https://edge4-hr.cvattv.com.ar/live/live/FoxFamily/SA_SAGEMCOM/FoxFamily.m3u8
-
-#EXTINF:-32 tvg-logo="http://www.plexmx.club/canales/27.png" group-title="PREMIUM", Star Life
-https://edge4-hr.cvattv.com.ar/live/c2live/Fox_Life/SA_SAGEMCOM/Fox_Life.m3u8
-
 #EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 

@@ -28,6 +28,9 @@ https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.
 #EXTINF:-15 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-vGhSrfKfUQ&ab_channel=C5N
 
+#EXTINF:-15 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/1761846241_InformacinPeriodstica(4).png.6b5a0e7149a823e40063f22b50d348c2.png" group-title="PREMIUM",Informacion Periodística
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
+
 #EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 

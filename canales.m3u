@@ -11,7 +11,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.
 https://00475e6934d74fe48a80427567a45918.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/b00d164f-be51-473e-a47c-b33aa1f44186.m3u8
 
 #EXTINF:-11 tvg-logo="https://telefe-static.akamaized.net/assets/telefe/4.06.01/images/logo-telefe.a8789604e7c2cd5739ea1b34efc9481a.png" group-title="PREMIUM", TELEFE
-https://appmitelefehls-lh.akamaihd.net/i/appmitelefe_1@326430/master.m3u8?hdnea=st=1648164504~exp=1648171704~acl=/i/appmitelefe_1@326430/*~hmac=59ff49b7a3a34ad599355da9e272bddd7d6e243d747c27b2374baf1bf0f2c08c
+http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
 #EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="PREMIUM", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8

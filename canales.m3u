@@ -75,9 +75,6 @@ https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.
 #EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
 https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
-#EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
-https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
-
 #EXTINF:-40 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 

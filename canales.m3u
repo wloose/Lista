@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-2 tvg-logo="https://telefuturo.com.py/wp-content/themes/telefuturo/img/logo-telefuturo.png" group-title="PREMIUM", Telefuturo
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=52a35919d32892a39a4741afcb5800554a35610f8fe15db3340e4b2d5ba52a0c&exp=1653232648
+
 #EXTINF:-2 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="PREMIUM", TVS
 https://rds3.desdeparaguay.net/tvs/tvs/chunklist_w468068683.m3u8?k=0af60d445674ec0d6b91b67864a608f972cecd421aeea9f4ce36b030ce970723&exp=1646101312
 

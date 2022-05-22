@@ -16,7 +16,7 @@ http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhTFv1qaNYlfLtPUIsHchtamv69dMzW-5PKraWTDpIaNobswOekxreIobjKeL_bnbyKus&usqp=CAU" group-title="PREMIUM", Canal 26
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/master.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/26_TV_HD/SA_SAGEMCOM/26_TV_HD.m3u8
 
 #EXTINF:-15 tvg-logo="https://www.utpba.org/wp-content/uploads/2020/08/C1-660x330.jpg" group-title="PREMIUM",Cronica TV
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=InSydaLSSlw&ab_channel=Cr%C3%B3nicaTV
@@ -25,7 +25,7 @@ https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
 #EXTINF:-17 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
-https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-vGhSrfKfUQ&ab_channel=C5N
+https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hD02TlIxHsY&ab_channel=C5N
 
 #EXTINF:-18 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/1761846241_InformacinPeriodstica(4).png.6b5a0e7149a823e40063f22b50d348c2.png" group-title="PREMIUM",Informacion Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8
@@ -52,28 +52,28 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Plus/SA_SAGEMCOM/HBO_Plus.m3
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.m3u8
 
 #EXTINF:-26 tvg-logo="http://www.plexmx.club/canales/433.png" group-title="PREMIUM", HBO Xtreme
-https://edge4-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 #EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/28.png" group-title="PREMIUM", Start Chanel
-https://edge4-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 #EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 #EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
-https://edge4-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
 #EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
-https://edge4-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
 #EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
-https://edge4-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
-https://edge4-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-39 tvg-logo="http://www.plexmx.club/canales/79.png" group-title="PREMIUM",Warner Channel
 https://edge4-hr.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
@@ -91,10 +91,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.
 https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 #EXTINF:-44 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
-https://edge4-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
-
-#EXTINF:-45 tvg-logo="https://w7.pngwing.com/pngs/926/901/png-transparent-el-garage-tv-television-publica-argentina-television-channel-logo-nick-jr-television-emblem-logo.png" group-title="PREMIUM", El Garaje TV
-http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+https://edge-live13-hr.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 #EXTINF:-50 tvg-logo="http://www.plexmx.club/canales/423.png" group-title="PREMIUM", Pasiones
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8

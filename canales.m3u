@@ -37,7 +37,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
-https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+https://edge3.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="PREMIUM", HBO2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_2/SA_SAGEMCOM/HBO_2.m3u8

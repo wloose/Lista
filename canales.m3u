@@ -106,7 +106,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Disco
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://cdn.television-libre.com/?url=Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEwNzkvbWFuaWZlc3QubXBk&kid=YTNiOTFmOTVkYzkxNTJjZThmYTM0YTdmZWQxMDNiNzA=&k=Njk0ZWIxMmM2Y2E0MDFiNDU0YmQ3NDJjMzc0YTUwYzA=&lang=0
 
 #EXTINF:-65 tvg-logo="http://www.plexmx.club/canales/18.png" group-title="PREMIUM", Cartoon Network
-https://edge4-hr.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_SAGEMCOM/CartoonNetwork.m3u8
+https://cdn.television-libre.com/?url=Ly9kdHZvdHQtY2JjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzEwMzYvbWFuaWZlc3QubXBk&kid=NzhjZTc5ODljMDBjNTA3OTljYTdkZmUyOTFiYWJkNWE=&k=M2E0ZDYxZTY4YTJiYzRiMTg3OWI1MjRhMjk5NGQ2NTQ=&lang=1
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PREMIUM", Radio Encarnacion
 https://radioencarnacion.opentechla.com/stream

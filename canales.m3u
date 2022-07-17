@@ -28,7 +28,7 @@ https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.
 https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wHn1_QVoXGM&ab_channel=TodoNoticias
 
 #EXTINF:-17 tvg-logo="https://www.cronista.com/files/image/143/143754/5ff79e25948dc.jpg" group-title="PREMIUM",C5N
-https://slinkstreamer.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=wGdLaO6Mx6A&ab_channel=C5N
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/c5n/live
 
 #EXTINF:-18 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_11/1761846241_InformacinPeriodstica(4).png.6b5a0e7149a823e40063f22b50d348c2.png" group-title="PREMIUM",Informacion Periodística
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8

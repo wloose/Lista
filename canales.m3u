@@ -30,7 +30,10 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 #EXTINF:-19 tvg-logo="https://i.imgur.com/1XgRcmd.png" group-title="PREMIUM",Telemax
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-20 tvg-id="I341.34879.schedulesdirect.org" tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
+#EXTINF:-20 tvg-logo="https://lh3.googleusercontent.com/-D51GGfe_xi8/YUDr0Xww3QI/AAAAAAAAAQA/PYMdVHsBQlo2fDKdWMn17F7xyGQQHSR3QCLcBGAsYHQ/w480/FX.png" group-title="PREMIUM", FX
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
+
+#EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 #EXTINF:-21 tvg-logo="http://www.plexmx.club/canales/429.png" group-title="PREMIUM", HBO2

@@ -43,7 +43,7 @@ https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 https://cvi.cdn.rcs.net.ar/mnp/hbofam_hls/playlist.m3u8
 
 #EXTINF:-23 tvg-logo="http://www.plexmx.club/canales/432.png" group-title="PREMIUM", HBO Pop
-https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/HBO_POP/SA_SAGEMCOM/HBO_POP.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 
 #EXTINF:-24 tvg-logo="http://www.plexmx.club/canales/431.png" group-title="PREMIUM", HBO Plus
 https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plus.m3u8

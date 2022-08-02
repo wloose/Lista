@@ -79,7 +79,7 @@ https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-41 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
 
 #EXTINF:-42 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
 https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8

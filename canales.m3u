@@ -31,7 +31,7 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
 #EXTINF:-20 tvg-logo="https://lh3.googleusercontent.com/-D51GGfe_xi8/YUDr0Xww3QI/AAAAAAAAAQA/PYMdVHsBQlo2fDKdWMn17F7xyGQQHSR3QCLcBGAsYHQ/w480/FX.png" group-title="PREMIUM", FX
-https://is-tucuman.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
 #EXTINF:-20 tvg-logo="http://www.plexmx.club/canales/428.png" group-title="PREMIUM", HBO
 https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
@@ -55,37 +55,37 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.
 https://edge3.prepro.cvattv.com.ar/live/vod/HBO_Extreme/SA_Live_WebVTT_FTA/HBO_Extreme.m3u8
 
 #EXTINF:-27 tvg-logo="http://www.plexmx.club/canales/28.png" group-title="PREMIUM", Start Chanel
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://is-cableat.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
 #EXTINF:-33 tvg-logo="http://www.plexmx.club/canales/19.png" group-title="PREMIUM", CINEMAX
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-34 tvg-logo="http://www.plexmx.club/canales/89.png" group-title="PREMIUM", CINECANAL
-https://cvi.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
 
 #EXTINF:-35 tvg-logo="http://www.plexmx.club/canales/71.png" group-title="PREMIUM", TNT Series
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/tntseries_hls/playlist.m3u8
 
 #EXTINF:-36 tvg-logo="http://www.plexmx.club/canales/70.png" group-title="PREMIUM", TNT
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+https://coteflan.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 
 #EXTINF:-37 tvg-logo="http://www.plexmx.club/canales/56.png" group-title="PREMIUM", Paramount
-https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
 #EXTINF:-38 tvg-logo="http://www.plexmx.club/canales/60.png" group-title="PREMIUM", Sony
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
 
 #EXTINF:-40 tvg-logo="http://www.plexmx.club/canales/83.png" group-title="PREMIUM", Discovery Home & Health
 https://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-41 tvg-logo="http://www.plexmx.club/canales/42.png" group-title="PREMIUM", History Channel
-https://stationtv.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
 #EXTINF:-42 tvg-logo="http://www.plexmx.club/canales/427.png" group-title="PREMIUM", History 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 
 #EXTINF:-43 tvg-logo="http://www.plexmx.club/canales/82.png" group-title="PREMIUM", Discovery Channel
-https://tw.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/discovery_hls/playlist.m3u8
 
 #EXTINF:-44 tvg-logo="http://www.plexmx.club/canales/85.png" group-title="PREMIUM", Discovery Turbo
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
@@ -94,16 +94,16 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 https://edge2-ccast-sl.cvattv.com.ar/live/c7eds/Pasiones/SA_SAGEMCOM/Pasiones.m3u8
 
 #EXTINF:-60 tvg-logo="http://www.plexmx.club/canales/113.png" group-title="PREMIUM", Disney Channel
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="http://www.plexmx.club/canales/107.png" group-title="PREMIUM", Discovery Kids
-https://edge2-ccast-sl.cvattv.com.ar/live/c6eds/Discovery_Kids/SA_SAGEMCOM/Discovery_Kids.m3u8
+https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
 #EXTINF:-64 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/Nickelodeon-logo.jpg" group-title="PREMIUM", Nickelodeon
-https://edge3.prepro.cvattv.com.ar/live/vod/Nickelodeon/SA_Live_WebVTT_FTA/Nickelodeon.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 
 #EXTINF:-65 tvg-logo="http://www.plexmx.club/canales/18.png" group-title="PREMIUM", Cartoon Network
-https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+https://coop-montehermoso.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png"group-title="PREMIUM", Radio Encarnacion
 https://radioencarnacion.opentechla.com/stream

@@ -10,7 +10,7 @@ https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-11 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png" group-title="PREMIUM", TELEFE
-https://is-tucuman.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1668452573~exp=1668459773~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=51f333b03d092cbf3b92e11de24ca10bbf1247b748c72d9e3a33ae1a6fbd574a
 
 #EXTINF:-12 tvg-logo="https://tvpopular1.com/download/multimedia.normal.bc4f676faf11ec38.3832382d383238333031345f656c74726563652d6c6f676f2d656c74726563655f6e6f726d616c2e6a7067.jpg" group-title="PREMIUM", ElTrece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8

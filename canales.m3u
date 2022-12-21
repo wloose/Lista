@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="Encuentro Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/IyP2UIx.png" tvg-id="Encuentro.ar" group-title="Argentina",Encuentro Ⓨ Ⓖ
-https://www.youtube.com/user/encuentro/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=hhttps://www.youtube.com/user/encuentro/live
 #EXTINF:-1 tvg-name="Pakapaka Ⓨ Ⓖ" tvg-logo="https://i.imgur.com/Q4zaCuM.png" tvg-id="Pakapaka.ar" group-title="Argentina",Pakapaka Ⓨ Ⓖ
 https://www.youtube.com/user/CanalPakapaka/live
 #EXTINF:-1 tvg-name="Mirador TV" tvg-logo="https://i.imgur.com/KjD1uJS.png" tvg-id="Mirador.ar" group-title="Argentina",Mirador TV

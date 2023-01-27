@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png",Canal 9
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
+#EXTINF:-1 tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png",Encuentro
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674849990/ei/ZtrTY-mNB5uU-LAPspih-A4/ip/168.196.0.198/id/tK6yqCdcE5w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ_Vd_N6zi6qJAxNnVG1YXNpjwuiaw7_i6ME9JyRjW3FAiEAphSjieteWfXhkl-P6mB95S2ygzUcDxAz6w2z4Oz-3HE%3D/file/index.m3u8
+
 #EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png",Canal 26
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848952/ei/V9bTY62iO-WlobIP7PiwmA4/ip/168.196.0.198/id/C2tMrZ6_xGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfH4xW9Hkn3MwA2ma6WM3R5QHE1uo_GrP9zg4Gd9OAqkCIHGIuuQz56ux716vVp-wpeqQul50ufP_1cNuszZlZEEf/file/index.m3u8
 

@@ -27,6 +27,18 @@ http://170.0.233.20:8000/play/a0fn/index.m3u8
 #EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://banner2.cleanpng.com/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg", Studio Universal
 http://170.0.233.20:8000/play/a0er/index.m3u8
 
+#EXTINF:-1 tvg-name="SyFy" tvg-logo="https://www.pngfind.com/pngs/m/327-3278417_syfy-tv-channel-logo-png-syfy-logo-png.png", SyFy
+http://170.0.233.20:8000/play/a0oa/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxP2UEGHbEnTMV_gTbgh13O5qDG-nsSqt_-3SD_CtEowiteaE5tnWG1oLq70b43P_2Ug&usqp=CAU", ESPN 2
+http://170.0.233.20:8000/play/a0nf/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
+http://170.0.233.20:8000/play/a0eu/index.m3u8
+
+#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png", ESPN 4
+http://170.0.233.20:8000/play/a0fw/index.m3u8
+
 #EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png", Cine Canal
 http://170.0.233.20:8000/play/a0ee/index.m3u8
 
@@ -44,6 +56,9 @@ http://170.0.233.18:8000/play/a0oj/index.m3u8
 
 #EXTINF:-1 tvg-name="Space" tvg-logo="https://w7.pngwing.com/pngs/162/645/png-transparent-space-television-channel-streaming-television-turner-broadcasting-system-television-channel-television-text-trademark.png", Space
 http://170.0.233.20:8000/play/a0o9/index.m3u8
+
+#EXTINF:-1 tvg-name="TyC" tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg", TyC
+http://170.0.233.20:8000/play/a0g8/index.m3u8
 
 #EXTINF:-1 tvg-name="Fox" tvg-logo="https://e7.pngegg.com/pngimages/514/900/png-clipart-fox-broadcasting-company-fox-international-channels-fox-news-fox-life-television-foxlogo-text-trademark.png", Fox
 http://170.0.233.17:8000/play/a0oa/index.m3u8

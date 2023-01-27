@@ -18,5 +18,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848123/ei/G
 #EXTINF:-1 tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png", Televisión Pública
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848692/ei/VNXTY5HQIamTobIP89GniA0/ip/168.196.0.198/id/ECVxfEySyRc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJG723ajkmkqthbZcPgHeGKd5WKSeemXF0J01Dy4dLWXAiEAzbj1g6QW5l7xhy37oWAFxMhEzzOoo3Ie3RIhwm-sXok%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png", Cine Canal
+http://170.0.233.20:8000/play/a0ee/index.m3u8
+
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png", Radio Encarnacion
 https://radioencarnacion.opentechla.com/stream

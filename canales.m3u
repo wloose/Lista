@@ -33,6 +33,9 @@ http://170.0.233.20:8000/play/a0o6/index.m3u8
 #EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL
 http://170.0.233.20:8000/play/a0ek/index.m3u8
 
+#EXTINF:-1 tvg-name="H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png", H&H
+http://170.0.233.20:8000/play/a0ol/index.m3u8
+
 #EXTINF:-1 tvg-name="Discobery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", Discobery Turbo
 http://170.0.233.18:8000/play/a0oj/index.m3u8
 

@@ -3,71 +3,112 @@
 #EXTINF:-1 tvg-name="Canal 9" tvg-logo="https://telecentro.com.ar/img/cm/channels/elnuevehd@2x.png",Canal 9
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
 
-#EXTINF:-1 tvg-name="Encuentro" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Logo_del_canal_Encuentro.svg/2560px-Logo_del_canal_Encuentro.svg.png",Encuentro
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674849990/ei/ZtrTY-mNB5uU-LAPspih-A4/ip/168.196.0.198/id/tK6yqCdcE5w.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/gcr/ar/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJ_Vd_N6zi6qJAxNnVG1YXNpjwuiaw7_i6ME9JyRjW3FAiEAphSjieteWfXhkl-P6mB95S2ygzUcDxAz6w2z4Oz-3HE%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png",Canal 26
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848952/ei/V9bTY62iO-WlobIP7PiwmA4/ip/168.196.0.198/id/C2tMrZ6_xGE.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfH4xW9Hkn3MwA2ma6WM3R5QHE1uo_GrP9zg4Gd9OAqkCIHGIuuQz56ux716vVp-wpeqQul50ufP_1cNuszZlZEEf/file/index.m3u8
-
-#EXTINF:-1 tvg-name="Informacion Periodistica" tvg-logo="https://lh3.googleusercontent.com/-rJV-6hUdyZQ/X4uFfHugYtI/AAAAAAAA6eU/HLiqqhf4_s8RjgL6X3sKBWDBqEGXoR0KgCK8BGAsYHg/s0/2020-10-17.jpg", Informacion Periodistica
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
-
-#EXTINF:-1 tvg-name="Cronica" tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png", Cronica
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848123/ei/G9PTY7S6JeuV1sQPm6-2mAE/ip/168.196.0.198/id/InSydaLSSlw.8/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKzsOk8rcB80duslkTDEmuTrjdSUuvUKTauiHdAMqhmMCIFR0attfM6MT5KWzLtL65zNtyvsH-V65eaPVeVB81yyO/file/index.m3u8
-
-#EXTINF:-1 tvg-name="Televisión Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png", Televisión Pública
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1674848692/ei/VNXTY5HQIamTobIP89GniA0/ip/168.196.0.198/id/ECVxfEySyRc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJG723ajkmkqthbZcPgHeGKd5WKSeemXF0J01Dy4dLWXAiEAzbj1g6QW5l7xhy37oWAFxMhEzzOoo3Ie3RIhwm-sXok%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 2" tvg-logo="https://w7.pngwing.com/pngs/773/988/png-transparent-fox-sports-1-ultimate-fighting-championship-fox-sports-2-speed-fox-sports-sun-television-emblem-text.png", Fox Sports 2
-http://170.0.233.17:8000/play/a0g7/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox Sports 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FSA3.png/revision/latest?cb=20170828214324&path-prefix=es", Fox Sports 3
-http://170.0.233.20:8000/play/a0fn/index.m3u8
-
-#EXTINF:-1 tvg-name="Studio Universal" tvg-logo="https://banner2.cleanpng.com/20180525/xjq/kisspng-universal-channel-television-channel-studio-univer-5b083c01b1d591.8195888415272663057284.jpg", Studio Universal
-http://170.0.233.20:8000/play/a0er/index.m3u8
-
-#EXTINF:-1 tvg-name="SyFy" tvg-logo="https://www.pngfind.com/pngs/m/327-3278417_syfy-tv-channel-logo-png-syfy-logo-png.png", SyFy
-http://170.0.233.20:8000/play/a0oa/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxP2UEGHbEnTMV_gTbgh13O5qDG-nsSqt_-3SD_CtEowiteaE5tnWG1oLq70b43P_2Ug&usqp=CAU", ESPN 2
-http://170.0.233.20:8000/play/a0nf/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3
-http://170.0.233.20:8000/play/a0eu/index.m3u8
-
-#EXTINF:-1 tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1280px-ESPN_4_logo.svg.png", ESPN 4
-http://170.0.233.20:8000/play/a0fw/index.m3u8
-
-#EXTINF:-1 tvg-name="Cine Canal" tvg-logo="https://w7.pngwing.com/pngs/1018/63/png-transparent-cinecanal-hd-logo.png", Cine Canal
-http://170.0.233.20:8000/play/a0ee/index.m3u8
-
-#EXTINF:-1 tvg-name="CineMax" tvg-logo="https://e7.pngegg.com/pngimages/946/949/png-clipart-logo-cinemax-television-channel-space-television-text.png", CineMax
-http://45.190.13.50:8000/play/a01p/index.m3u8
-
-#EXTINF:-1 tvg-name="STAR CHANNEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4zvVFi0pQPJ5RqMGszoe1y6B3nsUOqZTngvl6CwSJ9mZ_awKbOkFREbmA6RctRhhy104&usqp=CAU", STAR CHANNEL
-http://170.0.233.20:8000/play/a0ek/index.m3u8
-
-#EXTINF:-1 tvg-name="Nat Geo" tvg-logo="https://w7.pngwing.com/pngs/42/706/png-transparent-logo-national-geographic-nat-geo-people-discovery-channel-brand-design-angle-text-rectangle.png", Nat Geo
-http://170.0.233.20:8000/play/a0o7/index.m3u8
-
-#EXTINF:-1 tvg-name="H&H" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png", H&H
-http://170.0.233.20:8000/play/a0ol/index.m3u8
-
-#EXTINF:-1 tvg-name="Discobery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/2560px-Discovery_Turbo_logo.svg.png", Discobery Turbo
-http://170.0.233.18:8000/play/a0oj/index.m3u8
-
-#EXTINF:-1 tvg-name="Space" tvg-logo="https://w7.pngwing.com/pngs/162/645/png-transparent-space-television-channel-streaming-television-turner-broadcasting-system-television-channel-television-text-trademark.png", Space
-http://170.0.233.20:8000/play/a0o9/index.m3u8
-
-#EXTINF:-1 tvg-name="TyC" tvg-logo="https://img2.freepng.es/20180723/huc/kisspng-logo-tyc-sports-brand-trademark-mosaic-5b55e9fa8e43a0.5446456715323571145827.jpg", TyC
-http://170.0.233.20:8000/play/a0g8/index.m3u8
-
-#EXTINF:-1 tvg-name="Fox" tvg-logo="https://e7.pngegg.com/pngimages/514/900/png-clipart-fox-broadcasting-company-fox-international-channels-fox-news-fox-life-television-foxlogo-text-trademark.png", Fox
-http://170.0.233.17:8000/play/a0oa/index.m3u8
-
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/CARTOON_NETWORK_logo.png/640px-CARTOON_NETWORK_logo.png", Cartoon Network
-http://170.0.233.17:8000/play/a0em/index.m3u8
+#EXTINF:-1,AMC HD
+http://45.190.13.50:8003/play/a02s/index.m3u8
+#EXTINF:-1,AXN HD
+http://45.190.13.50:8003/play/a02r/index.m3u8
+#EXTINF:-1,Baby TV
+http://45.190.13.50:8003/play/a02d/index.m3u8
+#EXTINF:-1,Bethel HD
+http://45.190.13.50:8003/play/a02j/index.m3u8
+#EXTINF:-1,Canal 100 HD
+http://45.190.13.50:8003/play/a002/index.m3u8
+#EXTINF:-1,Canal 3 Guatemala
+http://45.190.13.50:8003/play/a02n/index.m3u8
+#EXTINF:-1,Cine Canal HD
+http://45.190.13.50:8003/play/a026/index.m3u8
+#EXTINF:-1,Comedia Central HD
+http://45.190.13.50:8003/play/a02c/index.m3u8
+#EXTINF:-1,Concert Channel
+http://45.190.13.50:8003/play/a02e/index.m3u8
+#EXTINF:-1,DEPORTES 3
+http://45.190.13.50:8003/play/a03y/index.m3u8
+#EXTINF:-1,De Peliculas
+http://45.190.13.50:8003/play/a03s/index.m3u8
+#EXTINF:-1,Disney Channel HD
+http://45.190.13.50:8003/play/a03g/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.190.13.50:8003/play/a01g/index.m3u8
+#EXTINF:-1,Enlace
+http://45.190.13.50:8003/play/a02k/index.m3u8
+#EXTINF:-1,FX HD
+http://45.190.13.50:8003/play/a01w/index.m3u8
+#EXTINF:-1,Food Network
+http://45.190.13.50:8003/play/a00x/index.m3u8
+#EXTINF:-1,FoodNetwork HD Encoder
+http://45.190.13.50:8003/play/a004/index.m3u8
+#EXTINF:-1,Golden Plus HD
+http://45.190.13.50:8003/play/a030/index.m3u8
+#EXTINF:-1,HBO 2 HD
+http://45.190.13.50:8003/play/a022/index.m3u8
+#EXTINF:-1,HBO Family HD
+http://45.190.13.50:8003/play/a020/index.m3u8
+#EXTINF:-1,HBO HD
+http://45.190.13.50:8003/play/a021/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://45.190.13.50:8003/play/a023/index.m3u8
+#EXTINF:-1,HBO Pop HD
+http://45.190.13.50:8003/play/a02z/index.m3u8
+#EXTINF:-1,HBO Xtreme HD
+http://45.190.13.50:8003/play/a024/index.m3u8
+#EXTINF:-1,HTV Latino
+http://45.190.13.50:8003/play/a03n/index.m3u8
+#EXTINF:-1,History HD
+http://45.190.13.50:8003/play/a029/index.m3u8
+#EXTINF:-1,Hola! TV HD
+http://45.190.13.50:8003/play/a001/index.m3u8
+#EXTINF:-1,Multipremier
+http://45.190.13.50:8003/play/a01x/index.m3u8
+#EXTINF:-1,Nat Geo HD
+http://45.190.13.50:8003/play/a02a/index.m3u8
+#EXTINF:-1,Nature Time HD
+http://45.190.13.50:8003/play/a02l/index.m3u8
+#EXTINF:-1,Panico HD
+http://45.190.13.50:8003/play/a045/index.m3u8
+#EXTINF:-1,Paramount HD
+http://45.190.13.50:8003/play/a02u/index.m3u8
+#EXTINF:-1,Play Movie HD
+http://45.190.13.50:8003/play/a046/index.m3u8
+#EXTINF:-1,Sony Movies HD
+http://45.190.13.50:8003/play/a02q/index.m3u8
+#EXTINF:-1,Space HD
+http://45.190.13.50:8003/play/a02v/index.m3u8
+#EXTINF:-1,Star Channel HD
+http://45.190.13.50:8003/play/a01r/index.m3u8
+#EXTINF:-1,Studio Universal HD
+http://45.190.13.50:8003/play/a01y/index.m3u8
+#EXTINF:-1,Suyapa TV
+http://45.190.13.50:8003/play/a02m/index.m3u8
+#EXTINF:-1,Syfy HD
+http://45.190.13.50:8003/play/a01z/index.m3u8
+#EXTINF:-1,TCM
+http://45.190.13.50:8003/play/a027/index.m3u8
+#EXTINF:-1,TNT HD
+http://45.190.13.50:8003/play/a02w/index.m3u8
+#EXTINF:-1,TNT Series HD
+http://45.190.13.50:8003/play/a02x/index.m3u8
+#EXTINF:-1,Telenovelas
+http://45.190.13.50:8003/play/a010/index.m3u8
+#EXTINF:-1,Tooncast
+http://45.190.13.50:8003/play/a03h/index.m3u8
+#EXTINF:-1,TyC Sport HD
+http://45.190.13.50:8003/play/a01c/index.m3u8
+#EXTINF:-1,Universal
+http://45.190.13.50:8003/play/a02y/index.m3u8
+#EXTINF:-1,Universal Cinema HD
+http://45.190.13.50:8003/play/a01v/index.m3u8
+#EXTINF:-1,Universal Comedy HD
+http://45.190.13.50:8003/play/a01s/index.m3u8
+#EXTINF:-1,Universal Crime HD
+http://45.190.13.50:8003/play/a01u/index.m3u8
+#EXTINF:-1,Universal Premiere 1 HD
+http://45.190.13.50:8003/play/a01t/index.m3u8
+#EXTINF:-1,Universal Reality HD
+http://45.190.13.50:8003/play/a02t/index.m3u8
+#EXTINF:-1,Warner HD
+http://45.190.13.50:8003/play/a025/index.m3u8
+#EXTINF:-1,ZooMoo
+http://45.190.13.50:8003/play/a02b/index.m3u8
 
 
 #EXTINF:-100 tvg-logo="https://masencarnacion.opentechla.com/themes/mas-encarnacion/assets/radio/img/logo.png", Radio Encarnacion

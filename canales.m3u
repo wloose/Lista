@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Telefe
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1679690042~exp=1679697242~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=59be3a67048f0370d0b6cdc58d8e431435570151be806fdfc2cb47a923fbebb7
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1679763673~exp=1679770873~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=8a0023d12dd1c85b6173f82d3bc8fa9757dc33a518a6a855950d7ef1fcaabbc8
 
 #EXTINF:-1,A Mas
 http://45.190.13.50:8003/play/a003/index.m3u8

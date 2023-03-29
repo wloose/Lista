@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,Telefe
+#EXTINF:-1,Canal 7 Neuquén
+https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8 
+#EXTINF:-1,TELEFE
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1680124686~exp=1680131886~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=d3a8b4938489bae96854928ad216318864c5dd1e9ae1a40f24ad1e1ea86d4909
 #EXTINF:-1,A Mas
 http://45.190.13.50:8003/play/a003/index.m3u8

@@ -1,12 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Canal 7 Neuquén
+#EXTINF:-1,AMERICA TV
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1,CANAL 7 NEUQUEN
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8 
-#EXTINF:-1,Canal 9 Litoral
+#EXTINF:-1,CANAL 9 LITORAL
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1,Canal 9
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
-#EXTINF:-1,Telefe noticias
+#EXTINF:-1,CANAL 9
+https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1,TELEFE NOTICIAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1,TELEFE
+https://router.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1,EL 13
+https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1,Telefuturo
 https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1,A Mas

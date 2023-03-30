@@ -5,6 +5,8 @@ https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 https://stream.arcast.live/ahora/ahora/playlist.m3u8
 #EXTINF:-1,Canal 9
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/master/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/live/channel09/live.isml/.m3u8
+#EXTINF:-1,Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
 #EXTINF:-1,A Mas
 http://45.190.13.50:8003/play/a003/index.m3u8
 #EXTINF:-1,AMC HD

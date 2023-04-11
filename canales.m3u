@@ -10,7 +10,7 @@ https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1,TELEFE NOTICIAS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1,TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1680284356~exp=1680291556~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=71e0b5cb65ed869644ee6c8a66b1c2253780fa02a2481afaf717be790bb77dda
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1681216412~exp=1681223612~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e0eb30bee803a47ea52e4ed06ec85012c0779ea078a5acbd32a1fca5b9259034
 #EXTINF:-1,EL 13
 https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1,Telefuturo

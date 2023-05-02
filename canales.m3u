@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,TELEFUTURO
+https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=c099b9b96d72a65ca89618d10531565d6de2d7e16bb0d62103471a9ca90dbffa&exp=1683027696
 #EXTINF:-1,AMERICA TV
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1,CANAL 7 NEUQUEN

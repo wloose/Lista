@@ -1,58 +1,18 @@
 #EXTM3U
-#EXTINF:-1,TELEFUTURO
-https://rds3tf.desdeparaguay.net/telefuturo/telefuturo_int_baja/playlist.m3u8?k=c099b9b96d72a65ca89618d10531565d6de2d7e16bb0d62103471a9ca90dbffa&exp=1683027696
-#EXTINF:-1,AMERICA TV
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-#EXTINF:-1,CANAL 7 NEUQUEN
-https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8 
-#EXTINF:-1,CANAL 9 LITORAL
-https://stream.arcast.live/ahora/ahora/playlist.m3u8
-#EXTINF:-1,CANAL 9
-https://router.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1,TELEFE NOTICIAS
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492d5522166000071a73c8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1,TELEFE
-https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1681216412~exp=1681223612~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=e0eb30bee803a47ea52e4ed06ec85012c0779ea078a5acbd32a1fca5b9259034
-#EXTINF:-1,EL 13
-https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1,Telefuturo
-https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
-#EXTINF:-1,A Mas
-http://45.190.13.50:8003/play/a003/index.m3u8
 #EXTINF:-1,AMC HD
 http://45.190.13.50:8003/play/a02s/index.m3u8
 #EXTINF:-1,AXN HD
 http://45.190.13.50:8003/play/a02r/index.m3u8
-#EXTINF:-1,Baby TV
-http://45.190.13.50:8003/play/a02d/index.m3u8
-#EXTINF:-1,Bethel HD
-http://45.190.13.50:8003/play/a02j/index.m3u8
-#EXTINF:-1,Canal 100 HD
-http://45.190.13.50:8003/play/a002/index.m3u8
-#EXTINF:-1,Canal 3 Guatemala
-http://45.190.13.50:8003/play/a02n/index.m3u8
 #EXTINF:-1,Cine Canal HD
 http://45.190.13.50:8003/play/a026/index.m3u8
 #EXTINF:-1,Comedia Central HD
 http://45.190.13.50:8003/play/a02c/index.m3u8
-#EXTINF:-1,Concert Channel
-http://45.190.13.50:8003/play/a02e/index.m3u8
-#EXTINF:-1,DEPORTES 3
-http://45.190.13.50:8003/play/a03y/index.m3u8
-#EXTINF:-1,De Peliculas
-http://45.190.13.50:8003/play/a03s/index.m3u8
 #EXTINF:-1,Disney Channel HD
 http://45.190.13.50:8003/play/a03g/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://45.190.13.50:8003/play/a01g/index.m3u8
-#EXTINF:-1,Enlace
-http://45.190.13.50:8003/play/a02k/index.m3u8
 #EXTINF:-1,FX HD
 http://45.190.13.50:8003/play/a01w/index.m3u8
-#EXTINF:-1,Food Network
-http://45.190.13.50:8003/play/a00x/index.m3u8
-#EXTINF:-1,FoodNetwork HD Encoder
-http://45.190.13.50:8003/play/a004/index.m3u8
 #EXTINF:-1,Golden Plus HD
 http://45.190.13.50:8003/play/a030/index.m3u8
 #EXTINF:-1,HBO 2 HD
@@ -67,20 +27,10 @@ http://45.190.13.50:8003/play/a023/index.m3u8
 http://45.190.13.50:8003/play/a02z/index.m3u8
 #EXTINF:-1,HBO Xtreme HD
 http://45.190.13.50:8003/play/a024/index.m3u8
-#EXTINF:-1,HTV Latino
-http://45.190.13.50:8003/play/a03n/index.m3u8
-#EXTINF:-1,History HD
-http://45.190.13.50:8003/play/a029/index.m3u8
-#EXTINF:-1,Hola! TV HD
-http://45.190.13.50:8003/play/a001/index.m3u8
 #EXTINF:-1,Multipremier
 http://45.190.13.50:8003/play/a01x/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://45.190.13.50:8003/play/a02a/index.m3u8
-#EXTINF:-1,Nature Time HD
-http://45.190.13.50:8003/play/a02l/index.m3u8
-#EXTINF:-1,Panico HD
-http://45.190.13.50:8003/play/a045/index.m3u8
 #EXTINF:-1,Paramount HD
 http://45.190.13.50:8003/play/a02u/index.m3u8
 #EXTINF:-1,Play Movie HD
@@ -93,20 +43,14 @@ http://45.190.13.50:8003/play/a02v/index.m3u8
 http://45.190.13.50:8003/play/a01r/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://45.190.13.50:8003/play/a01y/index.m3u8
-#EXTINF:-1,Suyapa TV
-http://45.190.13.50:8003/play/a02m/index.m3u8
 #EXTINF:-1,Syfy HD
 http://45.190.13.50:8003/play/a01z/index.m3u8
-#EXTINF:-1,TCM
-http://45.190.13.50:8003/play/a027/index.m3u8
 #EXTINF:-1,TNT HD
 http://45.190.13.50:8003/play/a02w/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://45.190.13.50:8003/play/a02x/index.m3u8
 #EXTINF:-1,Telenovelas
 http://45.190.13.50:8003/play/a010/index.m3u8
-#EXTINF:-1,Tooncast
-http://45.190.13.50:8003/play/a03h/index.m3u8
 #EXTINF:-1,TyC Sport HD
 http://45.190.13.50:8003/play/a01c/index.m3u8
 #EXTINF:-1,Universal
@@ -123,19 +67,3 @@ http://45.190.13.50:8003/play/a01t/index.m3u8
 http://45.190.13.50:8003/play/a02t/index.m3u8
 #EXTINF:-1,Warner HD
 http://45.190.13.50:8003/play/a025/index.m3u8
-#EXTINF:-1,ZooMoo
-http://45.190.13.50:8003/play/a02b/index.m3u8
-#EXTINF:-1,DISCOVERY TURBO SD
-http://8.242.187.233:5800/play/a0bt/index.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://8.242.187.233:5800/play/a0dw/index.m3u8
-#EXTINF:-1,Discovery HD
-http://8.242.187.233:5800/play/a0cq/index.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://8.242.187.233:5800/play/a0dv/index.m3u8
-#EXTINF:-1,Discovery Science
-http://8.242.187.233:5800/play/a0g9/index.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://8.242.187.233:5800/play/a0dx/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://8.242.187.233:5800/play/a0d0/index.m3u8

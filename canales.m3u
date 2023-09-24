@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,BNT2HD
-http://45.91.195.6:80/BNT2HD/index.m3u8
-#EXTINF:-1,MTVEurope
-http://45.91.195.6:80/MTVEurope/index.m3u8
-#EXTINF:-1,BNT4 HD
-http://45.91.195.6:80/BNT4HD/index.m3u8
-3 personas reaccionaron
-Playlist Finder
-ayer a las 22:14
-#EXTM3U
 #EXTINF:-1,Animal Planet HD
 http://179.1.67.51:8000/play/a05s/index.m3u8
 #EXTINF:-1,CableNoticias
